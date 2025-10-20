@@ -1,0 +1,17 @@
+{
+  "name": "gamemap",
+  "version": "1.0.0",
+  "description": "A simple grid-based game map implementation",
+  "main": "src/GameMap.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "game",
+    "map",
+    "grid",
+    "tilemap"
+  ],
+  "author": "",
+  "license": "MIT"
+}
